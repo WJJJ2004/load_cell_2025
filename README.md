@@ -26,6 +26,10 @@
 - **FilterManager**로 평균, 중앙값, LPF 적용  
 - 향후 로봇 ZMP 계산 및 자세 안정화에 활용 가능
 
+https://github.com/user-attachments/assets/88d60eef-09b5-46ee-8fda-17201f4b23ad
+
+
+
 ---
 
 ## 설치 및 실행 방법
